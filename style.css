@@ -4,10 +4,13 @@
     box-sizing: border-box;
 }
 
+body {
+    font-family: "Inter", sans-serif;
+}
+
 .title-logo {
     vertical-align: top;
     display: inline-block;
     margin-top: 5px;
     font-size: 35px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
