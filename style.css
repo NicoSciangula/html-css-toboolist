@@ -6,6 +6,7 @@
 
 body {
     font-family: "Inter", sans-serif;
+    background-color: rgb(199, 198, 198);
 }
 
 .title-logo {
@@ -13,4 +14,37 @@ body {
     display: inline-block;
     margin-top: 5px;
     font-size: 35px;
+}
+
+.margin-size {
+    margin: 20px 25%;
+}
+
+.background-white {
+    background-color: white;
+}
+
+main header {
+    height: 50px;
+    margin-bottom: 5px;
+}
+
+.button {
+    border: 1px solid gray;
+    padding: 6px;
+    border-radius: 5px;
+    color: grey;
+    display: inline-block;
+}
+
+.blue-button {
+    background-color: rgb(68, 170, 238);
+    color: white;
+    border: none;
+}
+ul{
+    list-style: none;
+}
+.general-class-section{
+    padding-top: 25px;
 }
