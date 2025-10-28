@@ -65,10 +65,10 @@ li {
     display: inline-block;
     color: green;
     margin-right: 5px;
-    font-size: 15px;
-    padding: 1px 5.5px;
     text-align: center;
     font-weight: bolder;
+    width: 24px;
+    height: 24px;
 }
 
 .crocie-rossa {
@@ -76,11 +76,9 @@ li {
     border-radius: 50%;
     color: red;
     display: inline-block;
-    font-size: 15px;
-    padding: 1px 5px;
     text-align: center;
-
-
+    width: 24px;
+    height: 24px;
 }
 .toggle{
   width: 0;
